@@ -39,7 +39,7 @@ const caseStudies = [
     tags: ["DeFi", "Product", "First-Mover"],
   },
   {
-    title: "CoinDCX Futures: $0 to $600M Daily",
+    title: "CoinDCX Futures: $0 to $20M Daily Launch",
     company: "CoinDCX",
     period: "2023",
     metrics: ["$0 to $20M daily in 90 days", "$500M campaign volume", "5,000+ participants"],
