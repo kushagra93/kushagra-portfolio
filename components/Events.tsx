@@ -1,35 +1,43 @@
 const events = [
   {
     name: "ETH Denver 2025",
-    role: "Speaker + Judge",
+    role: "Title Sponsor + Judge",
     location: "Denver, USA",
-    url: "https://ethdenver.com",
-  },
-  {
-    name: "Token 2049",
-    role: "Speaker & Organizer",
-    location: "Singapore",
-    description: "Organized Consumer Crypto Day side event with Coinbase APAC MD, Jump Capital, Agoric CEO",
-    url: "https://luma.com/5yhlxyca",
-  },
-  {
-    name: "Unfold 2024",
-    role: "Organizer",
-    location: "Bengaluru, India",
-    description: "India's largest Web3 hackathon \u2014 1,500+ attendees, 600+ developers, $100K bounties",
-    url: "https://unfoldweb3.com",
-  },
-  {
-    name: "ETH India",
-    role: "Representative",
-    location: "India",
+    description: "Okto as title sponsor for both the event and hackathon. Speaker, judge, and stall presence.",
+    url: "https://ethdenver2025.devfolio.co/overview",
   },
   {
     name: "Consumer Crypto Day",
     role: "Organizer",
     location: "Singapore",
-    description: "Hosted with Agoric, Base, and Polygon at Token 2049",
+    description: "Side event at Token 2049 with Coinbase APAC MD, Jump Capital, Agoric CEO, and 12+ speakers",
     url: "https://luma.com/5yhlxyca",
+  },
+  {
+    name: "Agg Summit",
+    role: "Representative",
+    location: "Bangkok",
+    description: "Represented Okto at Agg Summit alongside top aggregation and DeFi protocols",
+    url: "https://x.com/rrohit689/status/1855992784576229464",
+  },
+  {
+    name: "Unfold 2024",
+    role: "Organizer + Judge",
+    location: "Bengaluru, India",
+    description: "India's largest Web3 hackathon \u2014 1,500+ attendees, 600+ developers, $100K bounties, $1M startup funding",
+    url: "https://coindcx.com/blog/announcements/coindcx-presents-unfold-2024-indias-premier-web3-event-returns-for-its-3rd-edition/",
+  },
+  {
+    name: "Token 2049",
+    role: "Speaker",
+    location: "Singapore",
+    description: "Represented Okto and CoinDCX at the world's largest crypto conference",
+  },
+  {
+    name: "ETH India",
+    role: "Representative",
+    location: "India",
+    description: "Ecosystem presence and developer engagement for Okto SDK",
   },
 ];
 
