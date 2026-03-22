@@ -34,6 +34,18 @@ const events = [
     description: "Represented Okto and CoinDCX at the world's largest crypto conference",
   },
   {
+    name: "Hyperliquid India Event",
+    role: "Sponsor",
+    location: "India",
+    description: "Okto-sponsored Hyperliquid community event in India, reinforcing #1 wallet position on HL ecosystem",
+  },
+  {
+    name: "ETH Delhi",
+    role: "Sponsor",
+    location: "New Delhi, India",
+    description: "Okto sponsored ETH Delhi — engaging the developer community and showcasing chain abstraction SDK",
+  },
+  {
     name: "ETH India",
     role: "Representative",
     location: "India",
