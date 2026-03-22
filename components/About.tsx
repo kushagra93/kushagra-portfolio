@@ -29,8 +29,8 @@ export default function About() {
               Now I lead{" "}
               <span className="text-text-primary font-medium">Okto</span> &mdash;
               CoinDCX&apos;s chain abstraction platform &mdash; across
-              product, growth, BD, and marketing as a single operator. I
-              drove $3B+ in volume, made Okto the #1 Hyperliquid wallet,
+              product, growth, BD, and marketing. Together with the team, I
+              helped drive $3B+ in volume, made Okto the #1 Hyperliquid wallet,
               and built it into a Top 5 global chain abstraction brand in 6
               months.
             </p>

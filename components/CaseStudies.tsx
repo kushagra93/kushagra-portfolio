@@ -5,7 +5,7 @@ const caseStudies = [
     period: "2023 - Present",
     metrics: ["$3B+ volume", "Top 5 brand globally", "#1 Hyperliquid wallet", "16K to 100K+ Twitter"],
     description:
-      "Built Okto from zero market presence to a Top 5 global chain abstraction brand. Single-handedly owned product, growth, BD, and marketing. Launched India's first compliant DeFi product, driving $0 to $14M monthly volume.",
+      "Led Okto from zero market presence to a Top 5 global chain abstraction brand. Owned product, growth, BD, and marketing across the team. Launched India's first compliant DeFi product, driving $0 to $14M monthly volume.",
     links: [
       { label: "Okto", url: "https://okto.tech" },
       { label: "The Defiant", url: "https://thedefiant.io/news/defi/okto-the-phantom-of-hyperliquid" },
@@ -42,9 +42,9 @@ const caseStudies = [
     title: "CoinDCX Futures: $0 to $600M Daily",
     company: "CoinDCX",
     period: "2023",
-    metrics: ["$0 to $20M daily in 90 days", "$600M daily volume now", "$500M campaign volume"],
+    metrics: ["$0 to $20M daily in 90 days", "$500M campaign volume", "5,000+ participants"],
     description:
-      "Launched CoinDCX's futures trading platform in India. Created the 'Trading Premier League' \u2014 India's largest trader campaign with 5,000+ participants. Built influencer and affiliate engine from zero budget.",
+      "Helped launch CoinDCX's futures trading platform in India. Created the 'Trading Premier League' \u2014 India's largest trader campaign with 5,000+ participants. Built influencer and affiliate engine from zero budget.",
     links: [],
     tags: ["Futures", "Growth", "Campaigns"],
   },
